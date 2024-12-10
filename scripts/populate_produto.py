@@ -11,7 +11,7 @@ def run():
     produtos = [
         {
             "nome": "Smartphone Galaxy S23",
-            "preco": 5999.99,
+            "preco": 3752.21,
             "estoque": 15,
             "descricao": "Um smartphone de última geração com excelente desempenho."
         },
